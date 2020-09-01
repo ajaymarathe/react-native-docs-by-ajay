@@ -1,2 +1,2 @@
-# react-native-docs-by-ajay
+# React Native Docs By Ajay
 Simple React-Native-doc snippets.
